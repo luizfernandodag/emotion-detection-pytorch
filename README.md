@@ -31,8 +31,9 @@ Este projeto requer **Python 3.7+** e as bibliotecas listadas no `requirements.t
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/[SEU_USUARIO]/[SEU_REPOSITORIO].git
-cd [SEU_REPOSITORIO]
+git clone https://github.com/luizfernandodag/emotion-detection-pytorch.git
+cd emotion-detection-pytorch
+
 ```
 
 ### 2. Instalação de Dependências
@@ -81,7 +82,6 @@ python main.py --source /caminho/para/seu/video_ou_imagem.mp4
 | `--output-path`  | Salvar os resultados em um diretório                    | ./saida_analisada    |
 
 ## 📸 Demonstração da Aplicação
-(Insira a foto ou vídeo/GIF da aplicação funcionando aqui.)
 
 ![Exemplo de detecção de emoções](./detector_img.jpeg)
 
