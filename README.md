@@ -83,20 +83,17 @@ python main.py --source /caminho/para/seu/video_ou_imagem.mp4
 ## 📸 Demonstração da Aplicação
 (Insira a foto ou vídeo/GIF da aplicação funcionando aqui.)
 
-```
-[COLOQUE A IMAGEM DE EXEMPLO AQUI (ex: exemplo.png)]
-```
+![Exemplo de detecção de emoções](./detector_img.jpeg)
+
 
 ## ☁️ Link para Teste Online (AWS)
-A aplicação está hospedada na AWS para testes de terceiros:
-
+A fazer 
 🔗 **Web App:**  
 ```
-[COLOQUE O SEU LINK DA AWS AQUI]
+A fazer 
 ```
 
 ## 📄 Sobre o Autor
-Este projeto foi desenvolvido por **[SEU NOME COMPLETO]** como parte do curso de Engenharia de Visão Computacional.
-
-- LinkedIn: [SEU LINK DO LINKEDIN]  
-- Artigo publicado: [SEU LINK DO ARTIGO NO MEDIUM / BLOG]
+Este projeto foi desenvolvido por **[LUIZ FERNANDO DE ANDRADE GADELHA]** como parte do curso de Engenharia de Visão Computacional.
+- LinkedIn:  luiz-gadelha
+- Artigo publicado: A FAZER
